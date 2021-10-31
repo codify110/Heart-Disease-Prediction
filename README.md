@@ -1,2 +1,6 @@
 # Heart Disease Prediction
-1st apply Data preprocessing technique on heart disease dataset then apply Decision Tree and Naïve Bayesian to detect disease 
+
+## Step 1) Apply Data preprocessing technique on heart disease dataset
+Data preprocessing is a data mining technique which is used to transform the raw data in a useful and efficient format.This involves 3 things including Data cleaning,Data Transformation and Data Reduction. Data cleaning aims for checking the data type, checking for duplicate rows providing statistic summary and much more. Further for Data transformation it handles normalization of data, discreetization of data and attribute selection of data. In Data reduction dimensionality reduction is also done along with other functionalities. 
+## Step 2) Apply Decision Tree and Naïve Bayesian to detect disease 
+A decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility. It is one way to display an algorithm that only contains conditional control statements.In statistics, Naive Bayes classifiers are a family of simple "probabilistic classifiers" based on applying Bayes' theorem with strong independence assumptions between the features. They are among the simplest Bayesian network models, but coupled with Kernel density estimation, they can achieve higher accuracy levels.
